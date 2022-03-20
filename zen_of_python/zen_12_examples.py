@@ -1,0 +1,1 @@
+"""Zen 12: In the face of ambiguity, refuse the temptation to guess."""
